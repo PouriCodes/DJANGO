@@ -1,0 +1,5 @@
+asgiref
+Django>4.2,<4.3
+sqlparse
+typing_extensions
+tzdata
